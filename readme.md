@@ -1,4 +1,4 @@
-# Star Notary - Udacity Blockchain Project 5
+# Project 5- Decentralized Cryptostar application on Ethereum 
 DApps for claiming, buy, transfer, exchange star with blockchain Ethereum.
 
 ## Specification
